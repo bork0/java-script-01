@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Notable');
+
+body {
+    display: flex;
+    margin-top: 465px;
+    justify-content: center;
+    background-image: url(math.jpg);
+    background-size: cover;
+}
+
+h1 {
+    color: #C70039;
+    font-family: 'Notable', sans-serif;
+}
